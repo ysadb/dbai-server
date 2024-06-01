@@ -1,5 +1,7 @@
 # README
 
+![Discord Banner 2](https://discord.com/api/guilds/1117065409460441190/widget.png?style=banner2)
+
 ## Project Overview
 
 Dragonball AI - Topic Generation Script
@@ -8,15 +10,13 @@ Dragonball AI - Topic Generation Script
 
 Install the required packages using:
 
-```
-bash
+```bash
 pip install -r requirements.txt
 ```
 
 Than you can run:
 
-```
-bash
+```bash
 python main.py
 ```
 
