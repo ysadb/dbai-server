@@ -14,6 +14,12 @@ Install the required packages using:
 pip install -r requirements.txt
 ```
 
+You will also need an OPENAI Api Key within your .env file:
+
+```
+OPENAI_KEY="sk-...."
+```
+
 Than you can run:
 
 ```bash
