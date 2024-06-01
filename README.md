@@ -1,6 +1,6 @@
 # README
 
-![Discord Banner 2](https://discord.com/api/guilds/1117065409460441190/widget.png?style=banner2)
+[<img src="https://discord.com/api/guilds/1117065409460441190/widget.png?style=banner2">](https://discord.com/invite/dragonballai)
 
 ## Project Overview
 
